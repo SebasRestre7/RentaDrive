@@ -1,0 +1,3482 @@
+[
+  {
+    "name": "home",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "page load",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "home-intermediate-1000",
+    "viewport": {
+      "width": 1000,
+      "height": 832
+    },
+    "route": "resize seam (measured width1000)",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "failed",
+    "width": 1000,
+    "rootScroll": 1000,
+    "controls": [
+      {
+        "el": "button.header-button.header-button--outline",
+        "x": 1030.71875,
+        "y": 31.5,
+        "right": 1152.90625,
+        "bottom": 65.5,
+        "w": 122.1875,
+        "h": 34
+      },
+      {
+        "el": "button.header-button.header-button--solid",
+        "x": 1162.90625,
+        "y": 31.5,
+        "right": 1273,
+        "bottom": 65.5,
+        "w": 110.09375,
+        "h": 34
+      },
+      {
+        "el": "button.search-panel__submit",
+        "x": 921,
+        "y": 581,
+        "right": 1139,
+        "bottom": 644,
+        "w": 218,
+        "h": 63
+      }
+    ],
+    "clips": [
+      {
+        "el": "button.header-button.header-button--outline",
+        "ancestor": "#inicio",
+        "x": 1030.71875,
+        "y": 31.5,
+        "right": 1152.90625,
+        "bottom": 65.5,
+        "w": 122.1875,
+        "h": 34
+      },
+      {
+        "el": "button.header-button.header-button--solid",
+        "ancestor": "#inicio",
+        "x": 1162.90625,
+        "y": 31.5,
+        "right": 1273,
+        "bottom": 65.5,
+        "w": 110.09375,
+        "h": 34
+      },
+      {
+        "el": "button.search-panel__submit",
+        "ancestor": "#inicio",
+        "x": 921,
+        "y": 581,
+        "right": 1139,
+        "bottom": 644,
+        "w": 218,
+        "h": 63
+      }
+    ],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "home-wide-1920",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "route": "resize cap",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1920,
+    "rootScroll": 1920,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "home-login",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 161.203125,
+      "right": 860,
+      "bottom": 670.796875,
+      "w": 440,
+      "h": 509.59375,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 510,
+      "clientHeight": 510
+    }
+  },
+  {
+    "name": "home-location",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 222,
+      "right": 860,
+      "bottom": 610,
+      "w": 440,
+      "h": 388,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 388,
+      "clientHeight": 388
+    }
+  },
+  {
+    "name": "home-calendar",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 380,
+      "y": 122,
+      "right": 900,
+      "bottom": 710,
+      "w": 520,
+      "h": 588,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 588,
+      "clientHeight": 588
+    }
+  },
+  {
+    "name": "home-register",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 410,
+      "y": 138.59375,
+      "right": 870,
+      "bottom": 693.390625,
+      "w": 460,
+      "h": 554.796875,
+      "scrollWidth": 460,
+      "clientWidth": 460,
+      "scrollHeight": 555,
+      "clientHeight": 555
+    }
+  },
+  {
+    "name": "home-promotions",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 330,
+      "y": 204,
+      "right": 950,
+      "bottom": 628,
+      "w": 620,
+      "h": 424,
+      "scrollWidth": 620,
+      "clientWidth": 620,
+      "scrollHeight": 424,
+      "clientHeight": 424
+    }
+  },
+  {
+    "name": "home-help",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 360,
+      "y": 178,
+      "right": 920,
+      "bottom": 654,
+      "w": 560,
+      "h": 476,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 476,
+      "clientHeight": 476
+    }
+  },
+  {
+    "name": "home-recover",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 270.09375,
+      "right": 860,
+      "bottom": 561.890625,
+      "w": 440,
+      "h": 291.796875,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 292,
+      "clientHeight": 292
+    }
+  },
+  {
+    "name": "home-role",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 390,
+      "y": 321,
+      "right": 890,
+      "bottom": 511,
+      "w": 500,
+      "h": 190,
+      "scrollWidth": 500,
+      "clientWidth": 500,
+      "scrollHeight": 190,
+      "clientHeight": 190
+    }
+  },
+  {
+    "name": "home-reset",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 284.5,
+      "right": 860,
+      "bottom": 547.5,
+      "w": 440,
+      "h": 263,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 263,
+      "clientHeight": 263
+    }
+  },
+  {
+    "name": "home-login-error",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 146.796875,
+      "right": 860,
+      "bottom": 685.1875,
+      "w": 440,
+      "h": 538.390625,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 538,
+      "clientHeight": 538
+    }
+  },
+  {
+    "name": "home-register-details",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 330,
+      "y": 25.203125,
+      "right": 950,
+      "bottom": 806.796875,
+      "w": 620,
+      "h": 781.59375,
+      "scrollWidth": 620,
+      "clientWidth": 620,
+      "scrollHeight": 782,
+      "clientHeight": 782
+    }
+  },
+  {
+    "name": "catalog-results",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "catalog-sort",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "catalog-search",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 380,
+      "y": 107.5,
+      "right": 900,
+      "bottom": 724.5,
+      "w": 520,
+      "h": 617,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 617,
+      "clientHeight": 617
+    }
+  },
+  {
+    "name": "catalog-brand",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 430,
+      "y": 248,
+      "right": 850,
+      "bottom": 584,
+      "w": 420,
+      "h": 336,
+      "scrollWidth": 420,
+      "clientWidth": 420,
+      "scrollHeight": 336,
+      "clientHeight": 336
+    }
+  },
+  {
+    "name": "catalog-favorites",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html?favorites",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "catalog-detail",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html?favorites#toyota-hilux",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-unauthorized",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible redirect",
+    "url": "http://127.0.0.1:56654/index.html?auth=login",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 161.203125,
+      "right": 860,
+      "bottom": 670.796875,
+      "w": 440,
+      "h": 509.59375,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 510,
+      "clientHeight": 510
+    }
+  },
+  {
+    "name": "booking-selection",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded fictional account/draft then visible UI",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-review",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-confirmed",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI seeded account/draft",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-no-draft",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded missing draft",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "admin-fleet",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-fleet-state-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-maintenance-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-vehicle-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-vehicle-edit",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-rate-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-policy-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-agreement-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-roles-audit",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      },
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-role-assignment",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      },
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-reports",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-lookup",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-reservation",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-delivery-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-reassign-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-extend-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-evidence",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-license-error",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded expired license then visible submit",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-acta-done",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded restored license + visible submit",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "runtime-errors",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "errors": []
+  },
+  {
+    "name": "home",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "page load",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "home-login",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 257.203125,
+      "right": 604,
+      "bottom": 766.796875,
+      "w": 440,
+      "h": 509.59375,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 510,
+      "clientHeight": 510
+    }
+  },
+  {
+    "name": "home-location",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 318,
+      "right": 604,
+      "bottom": 706,
+      "w": 440,
+      "h": 388,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 388,
+      "clientHeight": 388
+    }
+  },
+  {
+    "name": "home-calendar",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 124,
+      "y": 218,
+      "right": 644,
+      "bottom": 806,
+      "w": 520,
+      "h": 588,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 588,
+      "clientHeight": 588
+    }
+  },
+  {
+    "name": "home-register",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 154,
+      "y": 234.59375,
+      "right": 614,
+      "bottom": 789.390625,
+      "w": 460,
+      "h": 554.796875,
+      "scrollWidth": 460,
+      "clientWidth": 460,
+      "scrollHeight": 555,
+      "clientHeight": 555
+    }
+  },
+  {
+    "name": "home-promotions",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 74,
+      "y": 300,
+      "right": 694,
+      "bottom": 724,
+      "w": 620,
+      "h": 424,
+      "scrollWidth": 620,
+      "clientWidth": 620,
+      "scrollHeight": 424,
+      "clientHeight": 424
+    }
+  },
+  {
+    "name": "home-help",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 104,
+      "y": 274,
+      "right": 664,
+      "bottom": 750,
+      "w": 560,
+      "h": 476,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 476,
+      "clientHeight": 476
+    }
+  },
+  {
+    "name": "home-recover",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 366.09375,
+      "right": 604,
+      "bottom": 657.890625,
+      "w": 440,
+      "h": 291.796875,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 292,
+      "clientHeight": 292
+    }
+  },
+  {
+    "name": "home-role",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 134,
+      "y": 417,
+      "right": 634,
+      "bottom": 607,
+      "w": 500,
+      "h": 190,
+      "scrollWidth": 500,
+      "clientWidth": 500,
+      "scrollHeight": 190,
+      "clientHeight": 190
+    }
+  },
+  {
+    "name": "home-reset",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 380.5,
+      "right": 604,
+      "bottom": 643.5,
+      "w": 440,
+      "h": 263,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 263,
+      "clientHeight": 263
+    }
+  },
+  {
+    "name": "home-login-error",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 242.796875,
+      "right": 604,
+      "bottom": 781.1875,
+      "w": 440,
+      "h": 538.390625,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 538,
+      "clientHeight": 538
+    }
+  },
+  {
+    "name": "home-register-details",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 74,
+      "y": 121.203125,
+      "right": 694,
+      "bottom": 902.796875,
+      "w": 620,
+      "h": 781.59375,
+      "scrollWidth": 620,
+      "clientWidth": 620,
+      "scrollHeight": 782,
+      "clientHeight": 782
+    }
+  },
+  {
+    "name": "catalog-results",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "catalog-sort",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "catalog-search",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 124,
+      "y": 203.5,
+      "right": 644,
+      "bottom": 820.5,
+      "w": 520,
+      "h": 617,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 617,
+      "clientHeight": 617
+    }
+  },
+  {
+    "name": "catalog-brand",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 174,
+      "y": 344,
+      "right": 594,
+      "bottom": 680,
+      "w": 420,
+      "h": 336,
+      "scrollWidth": 420,
+      "clientWidth": 420,
+      "scrollHeight": 336,
+      "clientHeight": 336
+    }
+  },
+  {
+    "name": "catalog-favorites",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html?favorites",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "catalog-detail",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html?favorites#toyota-hilux",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-unauthorized",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible redirect",
+    "url": "http://127.0.0.1:56654/index.html?auth=login",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 257.203125,
+      "right": 604,
+      "bottom": 766.796875,
+      "w": 440,
+      "h": 509.59375,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 510,
+      "clientHeight": 510
+    }
+  },
+  {
+    "name": "booking-selection",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded fictional account/draft then visible UI",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-review",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-confirmed",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI seeded account/draft",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-no-draft",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded missing draft",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "admin-fleet",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-fleet-state-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-maintenance-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-vehicle-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-vehicle-edit",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-rate-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-policy-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-agreement-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-roles-audit",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      },
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-role-assignment",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      },
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-reports",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-lookup",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-reservation",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-delivery-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-reassign-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-extend-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-evidence",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-license-error",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded expired license then visible submit",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-acta-done",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded restored license + visible submit",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "runtime-errors",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "errors": []
+  },
+  {
+    "name": "home",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "page load",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "home-login",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 173.203125,
+      "right": 378,
+      "bottom": 670.796875,
+      "w": 366,
+      "h": 497.59375,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 498,
+      "clientHeight": 498
+    }
+  },
+  {
+    "name": "home-login-shortheight",
+    "viewport": {
+      "width": 390,
+      "height": 500
+    },
+    "route": "390x500 keyboard surrogate",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 20,
+      "right": 378,
+      "bottom": 480,
+      "w": 366,
+      "h": 460,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 498,
+      "clientHeight": 460
+    }
+  },
+  {
+    "name": "home-login-shortheight-submit-scrolled",
+    "viewport": {
+      "width": 390,
+      "height": 500
+    },
+    "route": "native dialog scroll",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 20,
+      "right": 378,
+      "bottom": 480,
+      "w": 366,
+      "h": 460,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 498,
+      "clientHeight": 460
+    }
+  },
+  {
+    "name": "home-location",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 234,
+      "right": 378,
+      "bottom": 610,
+      "w": 366,
+      "h": 376,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 376,
+      "clientHeight": 376
+    }
+  },
+  {
+    "name": "home-calendar",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 134,
+      "right": 378,
+      "bottom": 710,
+      "w": 366,
+      "h": 576,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 576,
+      "clientHeight": 576
+    }
+  },
+  {
+    "name": "home-register",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 150.59375,
+      "right": 378,
+      "bottom": 693.390625,
+      "w": 366,
+      "h": 542.796875,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 543,
+      "clientHeight": 543
+    }
+  },
+  {
+    "name": "home-promotions",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 123,
+      "right": 378,
+      "bottom": 721,
+      "w": 366,
+      "h": 598,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 598,
+      "clientHeight": 598
+    }
+  },
+  {
+    "name": "home-help",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 190,
+      "right": 378,
+      "bottom": 654,
+      "w": 366,
+      "h": 464,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 464,
+      "clientHeight": 464
+    }
+  },
+  {
+    "name": "home-recover",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 273.703125,
+      "right": 378,
+      "bottom": 570.296875,
+      "w": 366,
+      "h": 296.59375,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 297,
+      "clientHeight": 297
+    }
+  },
+  {
+    "name": "home-role",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 333,
+      "right": 378,
+      "bottom": 511,
+      "w": 366,
+      "h": 178,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 178,
+      "clientHeight": 178
+    }
+  },
+  {
+    "name": "home-reset",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 296.5,
+      "right": 378,
+      "bottom": 547.5,
+      "w": 366,
+      "h": 251,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 251,
+      "clientHeight": 251
+    }
+  },
+  {
+    "name": "home-login-error",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 158.796875,
+      "right": 378,
+      "bottom": 685.1875,
+      "w": 366,
+      "h": 526.390625,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 526,
+      "clientHeight": 526
+    }
+  },
+  {
+    "name": "home-register-details",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/index.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 20,
+      "right": 378,
+      "bottom": 824,
+      "w": 366,
+      "h": 804,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 1288,
+      "clientHeight": 804
+    }
+  },
+  {
+    "name": "catalog-results",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "catalog-sort",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "catalog-search",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 121.5,
+      "right": 378,
+      "bottom": 722.5,
+      "w": 366,
+      "h": 601,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 601,
+      "clientHeight": 601
+    }
+  },
+  {
+    "name": "catalog-brand",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 245.5,
+      "right": 378,
+      "bottom": 598.5,
+      "w": 366,
+      "h": 353,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 353,
+      "clientHeight": 353
+    }
+  },
+  {
+    "name": "catalog-favorites",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html?favorites",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "catalog-detail",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/catalog.html?favorites#toyota-hilux",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-unauthorized",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible redirect",
+    "url": "http://127.0.0.1:56654/index.html?auth=login",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 173.203125,
+      "right": 378,
+      "bottom": 670.796875,
+      "w": 366,
+      "h": 497.59375,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 498,
+      "clientHeight": 498
+    }
+  },
+  {
+    "name": "booking-selection",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded fictional account/draft then visible UI",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-review",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-confirmed",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI seeded account/draft",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "booking-no-draft",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded missing draft",
+    "url": "http://127.0.0.1:56654/booking.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "admin-fleet",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "failed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 748.1875,
+        "right": 534.890625,
+        "bottom": 766.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 821.1875,
+        "right": 534.890625,
+        "bottom": 839.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 894.1875,
+        "right": 534.890625,
+        "bottom": 912.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 983.1875,
+        "right": 534.890625,
+        "bottom": 1001.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1072.1875,
+        "right": 534.890625,
+        "bottom": 1090.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1145.1875,
+        "right": 534.890625,
+        "bottom": 1163.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1234.1875,
+        "right": 534.890625,
+        "bottom": 1252.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1323.1875,
+        "right": 534.890625,
+        "bottom": 1341.1875,
+        "w": 87.265625,
+        "h": 18
+      }
+    ],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-fleet-state-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "failed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 748.1875,
+        "right": 534.890625,
+        "bottom": 766.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 821.1875,
+        "right": 534.890625,
+        "bottom": 839.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 894.1875,
+        "right": 534.890625,
+        "bottom": 912.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 983.1875,
+        "right": 534.890625,
+        "bottom": 1001.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1072.1875,
+        "right": 534.890625,
+        "bottom": 1090.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1145.1875,
+        "right": 534.890625,
+        "bottom": 1163.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1234.1875,
+        "right": 534.890625,
+        "bottom": 1252.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1323.1875,
+        "right": 534.890625,
+        "bottom": 1341.1875,
+        "w": 87.265625,
+        "h": 18
+      }
+    ],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-maintenance-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "failed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 748.1875,
+        "right": 534.890625,
+        "bottom": 766.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 821.1875,
+        "right": 534.890625,
+        "bottom": 839.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 894.1875,
+        "right": 534.890625,
+        "bottom": 912.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 983.1875,
+        "right": 534.890625,
+        "bottom": 1001.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1072.1875,
+        "right": 534.890625,
+        "bottom": 1090.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1145.1875,
+        "right": 534.890625,
+        "bottom": 1163.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1234.1875,
+        "right": 534.890625,
+        "bottom": 1252.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1323.1875,
+        "right": 534.890625,
+        "bottom": 1341.1875,
+        "w": 87.265625,
+        "h": 18
+      }
+    ],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-vehicle-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "failed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 748.1875,
+        "right": 534.890625,
+        "bottom": 766.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 821.1875,
+        "right": 534.890625,
+        "bottom": 839.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 894.1875,
+        "right": 534.890625,
+        "bottom": 912.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 983.1875,
+        "right": 534.890625,
+        "bottom": 1001.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1072.1875,
+        "right": 534.890625,
+        "bottom": 1090.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1145.1875,
+        "right": 534.890625,
+        "bottom": 1163.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1234.1875,
+        "right": 534.890625,
+        "bottom": 1252.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 1323.1875,
+        "right": 534.890625,
+        "bottom": 1341.1875,
+        "w": 87.265625,
+        "h": 18
+      }
+    ],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-vehicle-edit",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "failed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": -515.8125,
+        "right": 534.890625,
+        "bottom": -497.8125,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": -442.8125,
+        "right": 534.890625,
+        "bottom": -424.8125,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": -369.8125,
+        "right": 534.890625,
+        "bottom": -351.8125,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": -280.8125,
+        "right": 534.890625,
+        "bottom": -262.8125,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": -191.8125,
+        "right": 534.890625,
+        "bottom": -173.8125,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": -118.8125,
+        "right": 534.890625,
+        "bottom": -100.8125,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": -29.8125,
+        "right": 534.890625,
+        "bottom": -11.8125,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 447.625,
+        "y": 59.1875,
+        "right": 534.890625,
+        "bottom": 77.1875,
+        "w": 87.265625,
+        "h": 18
+      }
+    ],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-rate-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 308,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-policy-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 308,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-agreement-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 308,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-roles-audit",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "failed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [
+      {
+        "el": "button.",
+        "x": 389.90625,
+        "y": 606.1875,
+        "right": 477.171875,
+        "bottom": 624.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 389.90625,
+        "y": 649.1875,
+        "right": 477.171875,
+        "bottom": 667.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 389.90625,
+        "y": 692.1875,
+        "right": 477.171875,
+        "bottom": 710.1875,
+        "w": 87.265625,
+        "h": 18
+      }
+    ],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 448,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      },
+      {
+        "width": 308,
+        "scroll": 534,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-role-assignment",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "failed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [
+      {
+        "el": "button.",
+        "x": 389.90625,
+        "y": 606.1875,
+        "right": 477.171875,
+        "bottom": 624.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 389.90625,
+        "y": 649.1875,
+        "right": 477.171875,
+        "bottom": 667.1875,
+        "w": 87.265625,
+        "h": 18
+      },
+      {
+        "el": "button.",
+        "x": 389.90625,
+        "y": 692.1875,
+        "right": 477.171875,
+        "bottom": 710.1875,
+        "w": 87.265625,
+        "h": 18
+      }
+    ],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 448,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      },
+      {
+        "width": 308,
+        "scroll": 534,
+        "tabindex": null,
+        "role": null,
+        "label": null
+      }
+    ],
+    "dialog": null
+  },
+  {
+    "name": "admin-reports",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-lookup",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-reservation",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-delivery-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-reassign-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-extend-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-evidence",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-license-error",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded expired license then visible submit",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "coordinator-acta-done",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded restored license + visible submit",
+    "url": "http://127.0.0.1:56654/staff.html",
+    "status": "passed",
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null
+  },
+  {
+    "name": "runtime-errors",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "errors": []
+  }
+]

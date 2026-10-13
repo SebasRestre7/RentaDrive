@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#2563eb">
+    <title>RentaDrive · Disponibilidad de demostración</title>
+    <link rel="stylesheet" href="./css/fonts.css">
+    <link rel="stylesheet" href="./css/base.css">
+    <link rel="stylesheet" href="./css/overlays.css">
+    <link rel="stylesheet" href="./css/catalog.css">
+    <script type="module" src="./js/catalog.js"></script>
+  <script type="module" src="./js/components/session.js"></script></head>
+  <body>
+    <main class="catalog-app">
+      <img class="catalog-app__photo" src="./assets/catalog/catalog-background.png" alt="" aria-hidden="true">
+      <div class="catalog-app__shade" aria-hidden="true"></div>
+
+      <header class="catalog-header">
+        <a class="catalog-brand" href="./index.html" aria-label="RentaDrive, volver a Inicio">
+          <img src="./assets/catalog/logo.png" alt="" width="34" height="32">
+          <span>RentaDrive</span>
+        </a>
+        <div class="catalog-header__actions"><div data-session></div>
+          <button class="catalog-icon-button" id="header-search" type="button" aria-label="Modificar búsqueda"><img src="./assets/catalog/header-search.svg" alt="" width="24" height="24"></button>
+          <button class="catalog-icon-button" id="header-favorites" type="button" aria-label="Favoritos"><img src="./assets/catalog/header-heart.svg" alt="" width="24" height="24"></button>
+        </div>
+      </header>
+
+      <div class="catalog-layout" id="catalog-layout">
+        <aside class="filters" aria-labelledby="filters-title">
+          <div class="filters__heading"><h1 id="filters-title">Filtros</h1><button id="clear-filters" type="button">Limpiar</button></div>
+          <fieldset class="filters__group"><legend>Tipo de vehículo</legend><div id="type-filters"></div></fieldset>
+          <fieldset class="filters__group filters__group--price"><legend>Precio por día</legend>
+            <div class="price-range" id="price-range">
+              <div class="price-range__track" aria-hidden="true"></div>
+              <input id="min-price" type="range" min="50000" max="500000" step="10000" value="50000" aria-label="Precio mínimo de demostración">
+              <input id="max-price" type="range" min="50000" max="500000" step="10000" value="500000" aria-label="Precio máximo de demostración">
+            </div>
+            <div class="price-range__labels"><output id="min-price-label" for="min-price">COP 50.000</output><output id="max-price-label" for="max-price">COP 500.000</output></div>
+          </fieldset>
+          <fieldset class="filters__group"><legend>Transmisión</legend><div id="transmission-filters"></div></fieldset>
+          <fieldset class="filters__group"><legend>Combustible</legend><div id="fuel-filters"></div></fieldset>
+          <div class="filters__brand"><span>Marca</span><button id="brand-filter" type="button" aria-haspopup="dialog">Todas las marcas</button></div>
+        </aside>
+
+        <div class="catalog-main">
+          <section class="search-summary" aria-label="Búsqueda actual">
+            <button class="catalog-button" id="edit-search" type="button">Modificar búsqueda</button>
+            <div class="search-summary__field search-summary__field--dates"><img src="./assets/catalog/calendar.svg" alt="" width="20" height="20"><span id="search-dates"></span></div>
+            <div class="search-summary__field search-summary__field--city"><img src="./assets/catalog/pin.svg" alt="" width="20" height="20"><span id="search-city"></span></div>
+          </section>
+
+          <section class="results" id="results-view" aria-labelledby="results-heading">
+            <div class="results__toolbar"><h2 id="results-heading">Resultados</h2>
+              <div class="sort-control"><button id="sort-trigger" type="button" aria-controls="sort-menu" aria-expanded="false"><span id="sort-label">Ordenar: Recomendados</span><img src="./assets/catalog/chevron.svg" alt="" width="16" height="16"></button>
+                <div class="sort-menu" id="sort-menu" role="group" aria-label="Ordenar resultados" hidden>
+                  <p>Ordenar resultados</p>
+                  <button type="button" data-sort="recommended" aria-pressed="true">Recomendados</button>
+                  <button type="button" data-sort="price-asc" aria-pressed="false">Precio: menor a mayor</button>
+                  <button type="button" data-sort="price-desc" aria-pressed="false">Precio: mayor a menor</button>
+                </div>
+              </div>
+            </div>
+            <p class="demo-disclaimer">Flota, tarifas y disponibilidad locales de demostración.</p>
+            <div class="vehicle-list" id="vehicle-list"></div>
+          </section>
+        </div>
+      </div>
+
+      <section class="vehicle-detail" id="detail-view" aria-labelledby="detail-title" hidden></section>
+      <div class="catalog-toast" id="catalog-toast" role="status" aria-live="polite" hidden></div>
+    </main>
+    <div class="dialog-layer" id="dialog-layer" hidden></div>
+  </body>
+</html>

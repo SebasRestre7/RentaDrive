@@ -1,0 +1,5388 @@
+[
+  {
+    "name": "home",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "page load",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-desktop-pixel-invariant",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "status": "passed",
+    "comparison": "same viewport and fresh fixture, exact PNG bytes"
+  },
+  {
+    "name": "home-intermediate-1000",
+    "viewport": {
+      "width": 1000,
+      "height": 832
+    },
+    "route": "resize seam (measured width1000)",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1000,
+    "rootScroll": 1000,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-wide-1920",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "route": "resize cap",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1920,
+    "rootScroll": 1920,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-login",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 360,
+      "y": 169.59375,
+      "right": 920,
+      "bottom": 662.390625,
+      "w": 560,
+      "h": 492.796875,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 493,
+      "clientHeight": 493
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-location",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 222,
+      "right": 860,
+      "bottom": 610,
+      "w": 440,
+      "h": 388,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 388,
+      "clientHeight": 388
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-calendar",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 380,
+      "y": 122,
+      "right": 900,
+      "bottom": 710,
+      "w": 520,
+      "h": 588,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 588,
+      "clientHeight": 588
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-register",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correo @example.invalid o @rentadrive.invalid."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 410,
+      "y": 138.59375,
+      "right": 870,
+      "bottom": 693.390625,
+      "w": 460,
+      "h": 554.796875,
+      "scrollWidth": 460,
+      "clientWidth": 460,
+      "scrollHeight": 555,
+      "clientHeight": 555
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-promotions",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 330,
+      "y": 204,
+      "right": 950,
+      "bottom": 628,
+      "w": 620,
+      "h": 424,
+      "scrollWidth": 620,
+      "clientWidth": 620,
+      "scrollHeight": 424,
+      "clientHeight": 424
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-help",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 360,
+      "y": 174,
+      "right": 920,
+      "bottom": 658,
+      "w": 560,
+      "h": 484,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 484,
+      "clientHeight": 484
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-recover",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El enlace local expira en 15 minutos. No utilices cuentas reales."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 270.09375,
+      "right": 860,
+      "bottom": 561.890625,
+      "w": 440,
+      "h": 291.796875,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 292,
+      "clientHeight": 292
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-role",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 390,
+      "y": 321,
+      "right": 890,
+      "bottom": 511,
+      "w": 500,
+      "h": 190,
+      "scrollWidth": 500,
+      "clientWidth": 500,
+      "scrollHeight": 190,
+      "clientHeight": 190
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-reset",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 284.5,
+      "right": 860,
+      "bottom": 547.5,
+      "w": 440,
+      "h": 263,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 263,
+      "clientHeight": 263
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-login-error",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales.",
+      "Credenciales ficticias incorrectas."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 360,
+      "y": 155.203125,
+      "right": 920,
+      "bottom": 676.796875,
+      "w": 560,
+      "h": 521.59375,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 522,
+      "clientHeight": 522
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-recovery-error",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El enlace local expira en 15 minutos. No utilices cuentas reales.",
+      "No existe esa cuenta ficticia en este navegador."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 255.703125,
+      "right": 860,
+      "bottom": 576.296875,
+      "w": 440,
+      "h": 320.59375,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 321,
+      "clientHeight": 321
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-reset-error",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "fixture opens existing reset, visible submit",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El enlace local expiró o ya se utilizó."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 270.09375,
+      "right": 860,
+      "bottom": 561.890625,
+      "w": 440,
+      "h": 291.796875,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 292,
+      "clientHeight": 292
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-register-details",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "RF-001: todos los campos son obligatorios. La categoría se registra; su correspondencia con un vehículo queda pendiente de definición."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 330,
+      "y": 25.203125,
+      "right": 950,
+      "bottom": 806.796875,
+      "w": 620,
+      "h": 781.59375,
+      "scrollWidth": 620,
+      "clientWidth": 620,
+      "scrollHeight": 782,
+      "clientHeight": 782
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-city-empty",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 420,
+      "y": 314,
+      "right": 860,
+      "bottom": 518,
+      "w": 440,
+      "h": 204,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 204,
+      "clientHeight": 204
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-city-filter-keyboard",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "status": "passed",
+    "route": "visible location opener → empty filter → Tab/Shift+Tab boundary checks → Escape",
+    "focusReturned": true,
+    "dialogClosed": true
+  },
+  {
+    "name": "home-city-selected",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-calendar-next-month",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 380,
+      "y": 98,
+      "right": 900,
+      "bottom": 734,
+      "w": 520,
+      "h": 636,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 636,
+      "clientHeight": 636
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-calendar-error",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "La devolución debe ser posterior al inicio. Selecciona dos fechas distintas."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 380,
+      "y": 83.59375,
+      "right": 900,
+      "bottom": 748.390625,
+      "w": 520,
+      "h": 664.796875,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 665,
+      "clientHeight": 665
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-register-error",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correo @example.invalid o @rentadrive.invalid.",
+      "Completa nombre/correo y una contraseña ficticia de 8 caracteres que coincida."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 410,
+      "y": 115.796875,
+      "right": 870,
+      "bottom": 716.1875,
+      "w": 460,
+      "h": 600.390625,
+      "scrollWidth": 460,
+      "clientWidth": 460,
+      "scrollHeight": 600,
+      "clientHeight": 600
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "catalog-results",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-sort",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-search",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 380,
+      "y": 107.5,
+      "right": 900,
+      "bottom": 724.5,
+      "w": 520,
+      "h": 617,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 617,
+      "clientHeight": 617
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "catalog-brand",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 430,
+      "y": 248,
+      "right": 850,
+      "bottom": 584,
+      "w": 420,
+      "h": 336,
+      "scrollWidth": 420,
+      "clientWidth": 420,
+      "scrollHeight": 336,
+      "clientHeight": 336
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "catalog-favorites",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-detail",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites#toyota-hilux",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-unavailable-favorite",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded unavailable favorite",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-unavailable-detail",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded unavailable favorite then visible detail",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites#toyota-hilux",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-empty",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded all fleet unavailable",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-unauthorized",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible redirect",
+    "url": "http://127.0.0.1:54515/index.html?auth=login",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 360,
+      "y": 169.59375,
+      "right": 920,
+      "bottom": 662.390625,
+      "w": 560,
+      "h": 492.796875,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 493,
+      "clientHeight": 493
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "booking-selection",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded fictional account/draft then visible UI",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-review",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-confirmed",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI seeded account/draft",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-confirmed-qr",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible confirmation, QR scrolled into viewport",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-view-reservation",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible success action (existing same-page scroll)",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-no-draft",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded missing draft",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-long-profile",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded long fictional profile",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-long-name",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded long fictional vehicle",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-long-detail",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded long vehicle then visible detail",
+    "url": "http://127.0.0.1:54515/catalog.html#toyota-hilux",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-long-profile-and-vehicle",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded long fictional profile/vehicle and fresh draft",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-fleet",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-fleet-state-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-maintenance-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-vehicle-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-vehicle-edit",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Ficha seleccionada cargada para edición explícita."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-rate-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-kilometre-rate",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-rate-published",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-rate-revision",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-policy-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-agreement-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-roles-audit",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Usuarios y permisos: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      },
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Bitácora local de operaciones: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-role-assignment",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Usuarios y permisos: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      },
+      {
+        "width": 922,
+        "scroll": 922,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Bitácora local de operaciones: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-reports",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-lookup",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-reservation",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-delivery-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-reassign-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-extend-form",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-reassign-result",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible operation, same reservation surface",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Cambio de precio pendiente de regla aprobada; elige una alternativa de igual cotización."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-extend-result",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible operation, same reservation surface",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El nuevo fin debe ser futuro y posterior al actual."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-evidence",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "1 foto(s) de prueba adjuntada(s) localmente."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-license-error",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded expired license then visible submit",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Entrega bloqueada: licencia vencida."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-acta-done",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "route": "seeded restored license + visible submit",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 1280,
+    "rootScroll": 1280,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "runtime-errors",
+    "viewport": {
+      "width": 1280,
+      "height": 832
+    },
+    "errors": []
+  },
+  {
+    "name": "home",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "page load",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-login",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 104,
+      "y": 265.59375,
+      "right": 664,
+      "bottom": 758.390625,
+      "w": 560,
+      "h": 492.796875,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 493,
+      "clientHeight": 493
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-location",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 318,
+      "right": 604,
+      "bottom": 706,
+      "w": 440,
+      "h": 388,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 388,
+      "clientHeight": 388
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-calendar",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 124,
+      "y": 218,
+      "right": 644,
+      "bottom": 806,
+      "w": 520,
+      "h": 588,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 588,
+      "clientHeight": 588
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-register",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correo @example.invalid o @rentadrive.invalid."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 154,
+      "y": 234.59375,
+      "right": 614,
+      "bottom": 789.390625,
+      "w": 460,
+      "h": 554.796875,
+      "scrollWidth": 460,
+      "clientWidth": 460,
+      "scrollHeight": 555,
+      "clientHeight": 555
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-promotions",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 74,
+      "y": 300,
+      "right": 694,
+      "bottom": 724,
+      "w": 620,
+      "h": 424,
+      "scrollWidth": 620,
+      "clientWidth": 620,
+      "scrollHeight": 424,
+      "clientHeight": 424
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-help",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 104,
+      "y": 270,
+      "right": 664,
+      "bottom": 754,
+      "w": 560,
+      "h": 484,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 484,
+      "clientHeight": 484
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-recover",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El enlace local expira en 15 minutos. No utilices cuentas reales."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 366.09375,
+      "right": 604,
+      "bottom": 657.890625,
+      "w": 440,
+      "h": 291.796875,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 292,
+      "clientHeight": 292
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-role",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 134,
+      "y": 417,
+      "right": 634,
+      "bottom": 607,
+      "w": 500,
+      "h": 190,
+      "scrollWidth": 500,
+      "clientWidth": 500,
+      "scrollHeight": 190,
+      "clientHeight": 190
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-reset",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 380.5,
+      "right": 604,
+      "bottom": 643.5,
+      "w": 440,
+      "h": 263,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 263,
+      "clientHeight": 263
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-login-error",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales.",
+      "Credenciales ficticias incorrectas."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 104,
+      "y": 251.203125,
+      "right": 664,
+      "bottom": 772.796875,
+      "w": 560,
+      "h": 521.59375,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 522,
+      "clientHeight": 522
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-recovery-error",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El enlace local expira en 15 minutos. No utilices cuentas reales.",
+      "No existe esa cuenta ficticia en este navegador."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 351.703125,
+      "right": 604,
+      "bottom": 672.296875,
+      "w": 440,
+      "h": 320.59375,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 321,
+      "clientHeight": 321
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-reset-error",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "fixture opens existing reset, visible submit",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El enlace local expiró o ya se utilizó."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 366.09375,
+      "right": 604,
+      "bottom": 657.890625,
+      "w": 440,
+      "h": 291.796875,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 292,
+      "clientHeight": 292
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-register-details",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "RF-001: todos los campos son obligatorios. La categoría se registra; su correspondencia con un vehículo queda pendiente de definición."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 74,
+      "y": 121.203125,
+      "right": 694,
+      "bottom": 902.796875,
+      "w": 620,
+      "h": 781.59375,
+      "scrollWidth": 620,
+      "clientWidth": 620,
+      "scrollHeight": 782,
+      "clientHeight": 782
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-city-empty",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 164,
+      "y": 410,
+      "right": 604,
+      "bottom": 614,
+      "w": 440,
+      "h": 204,
+      "scrollWidth": 440,
+      "clientWidth": 440,
+      "scrollHeight": 204,
+      "clientHeight": 204
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-city-filter-keyboard",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "status": "passed",
+    "route": "visible location opener → empty filter → Tab/Shift+Tab boundary checks → Escape",
+    "focusReturned": true,
+    "dialogClosed": true
+  },
+  {
+    "name": "home-city-selected",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-calendar-next-month",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 124,
+      "y": 194,
+      "right": 644,
+      "bottom": 830,
+      "w": 520,
+      "h": 636,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 636,
+      "clientHeight": 636
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-calendar-error",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "La devolución debe ser posterior al inicio. Selecciona dos fechas distintas."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 124,
+      "y": 179.59375,
+      "right": 644,
+      "bottom": 844.390625,
+      "w": 520,
+      "h": 664.796875,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 665,
+      "clientHeight": 665
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-register-error",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correo @example.invalid o @rentadrive.invalid.",
+      "Completa nombre/correo y una contraseña ficticia de 8 caracteres que coincida."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 154,
+      "y": 211.796875,
+      "right": 614,
+      "bottom": 812.1875,
+      "w": 460,
+      "h": 600.390625,
+      "scrollWidth": 460,
+      "clientWidth": 460,
+      "scrollHeight": 600,
+      "clientHeight": 600
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "catalog-results",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-sort",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-search",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 124,
+      "y": 203.5,
+      "right": 644,
+      "bottom": 820.5,
+      "w": 520,
+      "h": 617,
+      "scrollWidth": 520,
+      "clientWidth": 520,
+      "scrollHeight": 617,
+      "clientHeight": 617
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "catalog-brand",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 174,
+      "y": 344,
+      "right": 594,
+      "bottom": 680,
+      "w": 420,
+      "h": 336,
+      "scrollWidth": 420,
+      "clientWidth": 420,
+      "scrollHeight": 336,
+      "clientHeight": 336
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "catalog-favorites",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-detail",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites#toyota-hilux",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-unavailable-favorite",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded unavailable favorite",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-unavailable-detail",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded unavailable favorite then visible detail",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites#toyota-hilux",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-empty",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded all fleet unavailable",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-unauthorized",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible redirect",
+    "url": "http://127.0.0.1:54515/index.html?auth=login",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 104,
+      "y": 265.59375,
+      "right": 664,
+      "bottom": 758.390625,
+      "w": 560,
+      "h": 492.796875,
+      "scrollWidth": 560,
+      "clientWidth": 560,
+      "scrollHeight": 493,
+      "clientHeight": 493
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "booking-selection",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded fictional account/draft then visible UI",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-review",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-confirmed",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI seeded account/draft",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-confirmed-qr",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible confirmation, QR scrolled into viewport",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-view-reservation",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible success action (existing same-page scroll)",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-no-draft",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded missing draft",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-long-profile",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded long fictional profile",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-long-name",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded long fictional vehicle",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-long-detail",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded long vehicle then visible detail",
+    "url": "http://127.0.0.1:54515/catalog.html#toyota-hilux",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-long-profile-and-vehicle",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded long fictional profile/vehicle and fresh draft",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-fleet",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-fleet-state-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-maintenance-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-vehicle-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-vehicle-edit",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Ficha seleccionada cargada para edición explícita."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-rate-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-kilometre-rate",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-rate-published",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-rate-revision",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-policy-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-agreement-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-roles-audit",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Usuarios y permisos: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      },
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Bitácora local de operaciones: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-role-assignment",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Usuarios y permisos: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      },
+      {
+        "width": 686,
+        "scroll": 686,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Bitácora local de operaciones: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-reports",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-lookup",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-reservation",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-delivery-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-reassign-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-extend-form",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-reassign-result",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible operation, same reservation surface",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Cambio de precio pendiente de regla aprobada; elige una alternativa de igual cotización."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-extend-result",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible operation, same reservation surface",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El nuevo fin debe ser futuro y posterior al actual."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-evidence",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El nuevo fin debe ser futuro y posterior al actual."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-license-error",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded expired license then visible submit",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Entrega bloqueada: licencia vencida."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-acta-done",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "route": "seeded restored license + visible submit",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 768,
+    "rootScroll": 768,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "runtime-errors",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "errors": []
+  },
+  {
+    "name": "home",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "page load",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-login",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 173.203125,
+      "right": 378,
+      "bottom": 670.796875,
+      "w": 366,
+      "h": 497.59375,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 498,
+      "clientHeight": 498
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-login-shortheight",
+    "viewport": {
+      "width": 390,
+      "height": 500
+    },
+    "route": "390x500 keyboard surrogate",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 20,
+      "right": 378,
+      "bottom": 480,
+      "w": 366,
+      "h": 460,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 498,
+      "clientHeight": 460
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": true
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-login-shortheight-submit-scrolled",
+    "viewport": {
+      "width": 390,
+      "height": 500
+    },
+    "route": "native dialog scroll",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 20,
+      "right": 378,
+      "bottom": 480,
+      "w": 366,
+      "h": 460,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 498,
+      "clientHeight": 460
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": true
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-location",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 234,
+      "right": 378,
+      "bottom": 610,
+      "w": 366,
+      "h": 376,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 376,
+      "clientHeight": 376
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-calendar",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 134,
+      "right": 378,
+      "bottom": 710,
+      "w": 366,
+      "h": 576,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 576,
+      "clientHeight": 576
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-register",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correo @example.invalid o @rentadrive.invalid."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 150.59375,
+      "right": 378,
+      "bottom": 693.390625,
+      "w": 366,
+      "h": 542.796875,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 543,
+      "clientHeight": 543
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-promotions",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 112.5,
+      "right": 378,
+      "bottom": 731.5,
+      "w": 366,
+      "h": 619,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 619,
+      "clientHeight": 619
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-help",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 186,
+      "right": 378,
+      "bottom": 658,
+      "w": 366,
+      "h": 472,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 472,
+      "clientHeight": 472
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-recover",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El enlace local expira en 15 minutos. No utilices cuentas reales."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 273.703125,
+      "right": 378,
+      "bottom": 570.296875,
+      "w": 366,
+      "h": 296.59375,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 297,
+      "clientHeight": 297
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-role",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 333,
+      "right": 378,
+      "bottom": 511,
+      "w": 366,
+      "h": 178,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 178,
+      "clientHeight": 178
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-reset",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "developer fixture button invokes existing overlay handler",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 296.5,
+      "right": 378,
+      "bottom": 547.5,
+      "w": 366,
+      "h": 251,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 251,
+      "clientHeight": 251
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-login-error",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales.",
+      "Credenciales ficticias incorrectas."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 158.796875,
+      "right": 378,
+      "bottom": 685.1875,
+      "w": 366,
+      "h": 526.390625,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 526,
+      "clientHeight": 526
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-recovery-error",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El enlace local expira en 15 minutos. No utilices cuentas reales.",
+      "No existe esa cuenta ficticia en este navegador."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 259.296875,
+      "right": 378,
+      "bottom": 584.6875,
+      "w": 366,
+      "h": 325.390625,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 325,
+      "clientHeight": 325
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-reset-error",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "fixture opens existing reset, visible submit",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El enlace local expiró o ya se utilizó."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 282.09375,
+      "right": 378,
+      "bottom": 561.890625,
+      "w": 366,
+      "h": 279.796875,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 280,
+      "clientHeight": 280
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-register-details",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "RF-001: todos los campos son obligatorios. La categoría se registra; su correspondencia con un vehículo queda pendiente de definición."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 20,
+      "right": 378,
+      "bottom": 824,
+      "w": 366,
+      "h": 804,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 1294,
+      "clientHeight": 804
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": true
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-city-empty",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 326,
+      "right": 378,
+      "bottom": 518,
+      "w": 366,
+      "h": 192,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 192,
+      "clientHeight": 192
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-city-filter-keyboard",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "status": "passed",
+    "route": "visible location opener → empty filter → Tab/Shift+Tab boundary checks → Escape",
+    "focusReturned": true,
+    "dialogClosed": true
+  },
+  {
+    "name": "home-city-selected",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-calendar-next-month",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 110,
+      "right": 378,
+      "bottom": 734,
+      "w": 366,
+      "h": 624,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 624,
+      "clientHeight": 624
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-calendar-error",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "La devolución debe ser posterior al inicio. Selecciona dos fechas distintas."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 87.203125,
+      "right": 378,
+      "bottom": 756.796875,
+      "w": 366,
+      "h": 669.59375,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 670,
+      "clientHeight": 670
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "home-register-error",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correo @example.invalid o @rentadrive.invalid.",
+      "Completa nombre/correo y una contraseña ficticia de 8 caracteres que coincida."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 127.796875,
+      "right": 378,
+      "bottom": 716.1875,
+      "w": 366,
+      "h": 588.390625,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 588,
+      "clientHeight": 588
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "catalog-results",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-sort",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-search",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 121.5,
+      "right": 378,
+      "bottom": 722.5,
+      "w": 366,
+      "h": 601,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 601,
+      "clientHeight": 601
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "catalog-brand",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 245.5,
+      "right": 378,
+      "bottom": 598.5,
+      "w": 366,
+      "h": 353,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 353,
+      "clientHeight": 353
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "catalog-favorites",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-detail",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites#toyota-hilux",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-unavailable-favorite",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded unavailable favorite",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-unavailable-detail",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded unavailable favorite then visible detail",
+    "url": "http://127.0.0.1:54515/catalog.html?favorites#toyota-hilux",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-empty",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded all fleet unavailable",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-unauthorized",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible redirect",
+    "url": "http://127.0.0.1:54515/index.html?auth=login",
+    "status": "passed",
+    "visibleStatus": [
+      "Solo correos @example.invalid o @rentadrive.invalid; no uses datos reales."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": {
+      "x": 12,
+      "y": 173.203125,
+      "right": 378,
+      "bottom": 670.796875,
+      "w": 366,
+      "h": 497.59375,
+      "scrollWidth": 366,
+      "clientWidth": 366,
+      "scrollHeight": 498,
+      "clientHeight": 498
+    },
+    "reachability": {
+      "failures": [],
+      "scrollable": false
+    },
+    "focusWrap": true,
+    "reverseFocusWrap": true
+  },
+  {
+    "name": "booking-selection",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded fictional account/draft then visible UI",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-review",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-confirmed",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI seeded account/draft",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-confirmed-qr",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible confirmation, QR scrolled into viewport",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-view-reservation",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible success action (existing same-page scroll)",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-no-draft",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded missing draft",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "home-long-profile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded long fictional profile",
+    "url": "http://127.0.0.1:54515/index.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-long-name",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded long fictional vehicle",
+    "url": "http://127.0.0.1:54515/catalog.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "catalog-long-detail",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded long vehicle then visible detail",
+    "url": "http://127.0.0.1:54515/catalog.html#toyota-hilux",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "booking-long-profile-and-vehicle",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded long fictional profile/vehicle and fresh draft",
+    "url": "http://127.0.0.1:54515/booking.html",
+    "status": "passed",
+    "visibleStatus": [],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-fleet",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": true
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-fleet-state-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": true
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-maintenance-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": true
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-vehicle-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": true
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-vehicle-edit",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Ficha seleccionada cargada para edición explícita."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 506,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Flota y disponibilidad: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": true
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-rate-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 308,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-kilometre-rate",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 308,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-rate-published",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 308,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-rate-revision",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 308,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-policy-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 308,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-agreement-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 308,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Configuración publicada: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": 0
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-roles-audit",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 448,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Usuarios y permisos: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": true
+      },
+      {
+        "width": 308,
+        "scroll": 532,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Bitácora local de operaciones: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": true
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-role-assignment",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [
+      {
+        "width": 308,
+        "scroll": 448,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Usuarios y permisos: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": true
+      },
+      {
+        "width": 308,
+        "scroll": 532,
+        "tabindex": "0",
+        "role": "region",
+        "label": "Bitácora local de operaciones: tabla con desplazamiento horizontal",
+        "cue": "Desliza horizontalmente o usa las flechas con la tabla enfocada para ver todas las columnas.",
+        "cueVisible": true
+      }
+    ],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "admin-reports",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded demo staff + visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-lookup",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      ""
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-reservation",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-delivery-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-reassign-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-extend-form",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded reservation then visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Reserva confirmada encontrada."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-reassign-result",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible operation, same reservation surface",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Cambio de precio pendiente de regla aprobada; elige una alternativa de igual cotización."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-extend-result",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible operation, same reservation surface",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "El nuevo fin debe ser futuro y posterior al actual."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-evidence",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "visible UI",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "1 foto(s) de prueba adjuntada(s) localmente."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-license-error",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded expired license then visible submit",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Entrega bloqueada: licencia vencida."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "coordinator-acta-done",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "route": "seeded restored license + visible submit",
+    "url": "http://127.0.0.1:54515/staff.html",
+    "status": "passed",
+    "visibleStatus": [
+      "Operación guardada en este navegador."
+    ],
+    "width": 390,
+    "rootScroll": 390,
+    "controls": [],
+    "clips": [],
+    "texts": [],
+    "tables": [],
+    "dialog": null,
+    "reachability": null
+  },
+  {
+    "name": "runtime-errors",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "errors": []
+  }
+]

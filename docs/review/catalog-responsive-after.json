@@ -1,0 +1,161 @@
+[
+  {
+    "viewport": 1280,
+    "scrollWidth": 1280,
+    "app": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 832,
+      "right": 1280,
+      "bottom": 832
+    },
+    "results": {
+      "x": 356,
+      "y": 104,
+      "width": 892,
+      "height": 728,
+      "right": 1248,
+      "bottom": 832
+    },
+    "card": {
+      "x": 356,
+      "y": 258,
+      "width": 892,
+      "height": 158,
+      "right": 1248,
+      "bottom": 416
+    },
+    "image": {
+      "x": 369,
+      "y": 271,
+      "width": 210,
+      "height": 132,
+      "right": 579,
+      "bottom": 403
+    },
+    "content": {
+      "x": 597,
+      "y": 271,
+      "width": 470,
+      "height": 132,
+      "right": 1067,
+      "bottom": 403
+    },
+    "filters": {
+      "x": 32,
+      "y": 104,
+      "width": 300,
+      "height": 647,
+      "right": 332,
+      "bottom": 751
+    },
+    "offenders": []
+  },
+  {
+    "viewport": 390,
+    "scrollWidth": 390,
+    "app": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 2308.109375,
+      "right": 390,
+      "bottom": 2308.109375
+    },
+    "results": {
+      "x": 12,
+      "y": 815,
+      "width": 366,
+      "height": 1493.109375,
+      "right": 378,
+      "bottom": 2308.109375
+    },
+    "card": {
+      "x": 12,
+      "y": 1087,
+      "width": 366,
+      "height": 397.703125,
+      "right": 378,
+      "bottom": 1484.703125
+    },
+    "image": {
+      "x": 25,
+      "y": 1100,
+      "width": 340,
+      "height": 213.703125,
+      "right": 365,
+      "bottom": 1313.703125
+    },
+    "content": {
+      "x": 25,
+      "y": 1325.703125,
+      "width": 340,
+      "height": 94,
+      "right": 365,
+      "bottom": 1419.703125
+    },
+    "filters": {
+      "x": 12,
+      "y": 122,
+      "width": 366,
+      "height": 677,
+      "right": 378,
+      "bottom": 799
+    },
+    "offenders": []
+  },
+  {
+    "viewport": 1920,
+    "scrollWidth": 1920,
+    "app": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1080,
+      "right": 1920,
+      "bottom": 1080
+    },
+    "results": {
+      "x": 372,
+      "y": 120,
+      "width": 1500,
+      "height": 728,
+      "right": 1872,
+      "bottom": 848
+    },
+    "card": {
+      "x": 372,
+      "y": 274,
+      "width": 1500,
+      "height": 158,
+      "right": 1872,
+      "bottom": 432
+    },
+    "image": {
+      "x": 385,
+      "y": 287,
+      "width": 210,
+      "height": 132,
+      "right": 595,
+      "bottom": 419
+    },
+    "content": {
+      "x": 613,
+      "y": 287,
+      "width": 1078,
+      "height": 132,
+      "right": 1691,
+      "bottom": 419
+    },
+    "filters": {
+      "x": 48,
+      "y": 120,
+      "width": 300,
+      "height": 647,
+      "right": 348,
+      "bottom": 767
+    },
+    "offenders": []
+  }
+]

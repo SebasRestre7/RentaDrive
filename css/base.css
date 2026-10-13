@@ -1,0 +1,11 @@
+:root{--home-blue:#0466f9;--overlay-blue:#0566fa;--text:#121a26;--muted:#61738a;--focus:#ffbe39}
+*{box-sizing:border-box}
+html{min-width:320px}
+body{margin:0;background:#fff;color:var(--text);font-family:Inter,Arial,sans-serif}
+button,input{font:inherit}
+button{cursor:pointer}
+a{color:inherit;text-decoration:none}
+:focus-visible{outline:3px solid var(--focus);outline-offset:3px;z-index:20}
+.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+[data-session]{display:flex;align-items:center;gap:8px;max-width:360px;font-size:11px;overflow-wrap:anywhere}[data-session] button{border:1px solid currentColor;background:transparent;color:inherit;border-radius:6px;padding:6px;white-space:nowrap}[data-session] span{min-width:0}@media(max-width:600px){[data-session]{max-width:180px;font-size:10px}}

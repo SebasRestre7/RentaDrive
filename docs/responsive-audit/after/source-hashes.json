@@ -1,0 +1,126 @@
+[
+  {
+    "path": "booking.html",
+    "sha256": "76612e5b8f1ce2c5829474f2936d535677a2a155d204ea729d491c8d43e58254"
+  },
+  {
+    "path": "catalog.html",
+    "sha256": "8ac77d113cd52ea37770d6556d6f974bd9505a7dad182cb31a151e5cfbfcc440"
+  },
+  {
+    "path": "css/base.css",
+    "sha256": "553bfdb62b357043b47e8093e8b9cd2014427fdb0a42b42cdf98a47715ef22f9"
+  },
+  {
+    "path": "css/booking.css",
+    "sha256": "aa1e5d7279dc7afd04e2656d4cd31b6d796ee6bdcc1abd82d88c2c5572bfab88"
+  },
+  {
+    "path": "css/catalog.css",
+    "sha256": "a0f8aa85188913bfa82f39780bb75bd0ee06bbbbcdf556d73e1087232c1f9e88"
+  },
+  {
+    "path": "css/fonts.css",
+    "sha256": "d16f2d329f1c3c4928ed4693d5bf69ca6f00a74b58c42963bbae219aa388560a"
+  },
+  {
+    "path": "css/home.css",
+    "sha256": "77d027d080f6074ea9925e59900a90a758505bd8e941f2da2c5c90329c11531e"
+  },
+  {
+    "path": "css/overlays.css",
+    "sha256": "c05e47f30758ad464646ea39e059998f819444cf9ca4a94abd2d5e50b35da1ae"
+  },
+  {
+    "path": "css/staff.css",
+    "sha256": "7b9d7fd5ab7738ad38030da96f7f1b208e4a60e6f66f6a245ab090247b2ef227"
+  },
+  {
+    "path": "index.html",
+    "sha256": "01ef0a5099a2eb0c3a7e13070180dc91432d7606bf834880a28b446dec933678"
+  },
+  {
+    "path": "js/booking.js",
+    "sha256": "21b6b1281451d865c5111625e2bea64e38f500ee8ac3ddcbe611fcc2db20cd6c"
+  },
+  {
+    "path": "js/catalog-data.js",
+    "sha256": "d1465eb895785bed8bc5e3dc34aaec6c6dcebf97e433ea2725a8b9c1751c88f4"
+  },
+  {
+    "path": "js/catalog.js",
+    "sha256": "b6d7589a52f0627324f2cf47559d192d6148cd0fc88258da47be960761e1b96d"
+  },
+  {
+    "path": "js/components/dialog.js",
+    "sha256": "96ef836fa10742bc7fb9387aeb351fce9d25247cc0ed0c35411a7f848a9e6a10"
+  },
+  {
+    "path": "js/components/reports.js",
+    "sha256": "0cc73dc808bf8999201c3fb72133db2e8fd9304350bf5326dc7d848e06ce2612"
+  },
+  {
+    "path": "js/components/session.js",
+    "sha256": "0b3781090e3d44ababbbaccfb2ce04f784c5823d3377e2f0f785c6b038c8e3d9"
+  },
+  {
+    "path": "js/core/media.js",
+    "sha256": "e8363ba07959033202750fc249245a9c288fa7bc070ec80cd65163fc2ccea7de"
+  },
+  {
+    "path": "js/core/storage.js",
+    "sha256": "52f05f270ed7920b633d1827a26fc539a878e6a01df73779fac6fb3b9aba1310"
+  },
+  {
+    "path": "js/home.js",
+    "sha256": "dae523bb79d1843f2ed70d09ad3325c7f452488b72ce689b1e6a20fe1ed0d5a1"
+  },
+  {
+    "path": "js/services/audit.js",
+    "sha256": "78e75d80a4a9431866af11d5a01d1364e931cd4e0af6c4a24b6105a30c7e5e85"
+  },
+  {
+    "path": "js/services/auth.js",
+    "sha256": "2decda43de6bd0633d5c14425006474cfe8b8c8ee857900724cc3a6b22427849"
+  },
+  {
+    "path": "js/services/availability.js",
+    "sha256": "6ee02a35b8c2da7e9d9a29624ad4c0b846ca6384e3d55a56ac47616aefb5ab91"
+  },
+  {
+    "path": "js/services/configuration.js",
+    "sha256": "2cd5d7efef7726e56039135de62bd052f11c14f953ba245365f6636ba478b1ac"
+  },
+  {
+    "path": "js/services/delivery.js",
+    "sha256": "dd4e2b961893284f8fd74bc4903fe548bbaf833d8377595a5ec3eabe1c2f5319"
+  },
+  {
+    "path": "js/services/demo-data.js",
+    "sha256": "dff381af03c429ed17856e112d7fc9c1db4dfbef19100205d878799ddeaa9d98"
+  },
+  {
+    "path": "js/services/fleet.js",
+    "sha256": "735e36bd479600421273d70cac83d84c702d53ce5b6ddeb3f1343217acdd866c"
+  },
+  {
+    "path": "js/services/periods.js",
+    "sha256": "e1c0abeb0df6359ba4a62eb4448d0a18d1355e29ac2af3cd9438c5e64a1ded8d"
+  },
+  {
+    "path": "js/services/quote.js",
+    "sha256": "254956363bc3590a0ebdb27f1eeb034b0c4d764636377994cfc371f2fec5aad2"
+  },
+  {
+    "path": "js/services/reservations.js",
+    "sha256": "6603c4c0541be9b94c6d13c067b34eb66cfd8d930a923516a0de4f05085706b8"
+  },
+  {
+    "path": "js/staff.js",
+    "sha256": "4d1a578d5efd7fe56816f918d105fc431c3655ebcf0a26a163f77fb204a68bc0"
+  },
+  {
+    "path": "staff.html",
+    "sha256": "c106dca0a9ccc15dbe72ba45d08d390f744d1a26e6ea7830a329dd792e16b2f1"
+  }
+]

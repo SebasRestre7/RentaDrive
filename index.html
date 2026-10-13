@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0466f9">
+    <title>RentaDrive · Inicio</title>
+    <link rel="stylesheet" href="./css/fonts.css">
+    <link rel="stylesheet" href="./css/base.css">
+    <link rel="stylesheet" href="./css/home.css">
+    <link rel="stylesheet" href="./css/overlays.css">
+    <script type="module" src="./js/home.js"></script>
+  <script type="module" src="./js/components/session.js"></script></head>
+  <body>
+    <main class="home" id="inicio">
+      <img class="home__photo" src="./assets/home-background.jpg" alt="" aria-hidden="true">
+      <div class="home__shade" aria-hidden="true"></div>
+
+      <header class="site-header">
+        <a class="brand" href="#inicio" aria-label="RentaDrive, Inicio">
+          <img src="./assets/brand-mark.svg" alt="" width="24" height="24">
+          <span>RentaDrive</span>
+        </a>
+        <nav class="site-nav" aria-label="Navegación principal">
+          <a class="site-nav__link is-current" href="#inicio" aria-current="page">Inicio</a>
+          <button class="site-nav__link" type="button" data-pending="catalog">Vehículos</button>
+          <button class="site-nav__link" type="button" data-overlay="promotions">Promociones</button>
+          <button class="site-nav__link" type="button" data-overlay="help">Ayuda</button>
+        </nav>
+        <div class="site-header__actions"><div data-session></div>
+          <button class="header-button header-button--outline" type="button" data-overlay="login">Iniciar sesión</button>
+          <button class="header-button header-button--solid" type="button" data-overlay="register">Registrarse</button>
+        </div>
+      </header>
+
+      <section class="hero" aria-labelledby="hero-title">
+        <h1 class="hero__title" id="hero-title">Tu próximo destino<br>comienza aquí</h1>
+        <p class="hero__subtitle">Renta vehiculos de forma rápida,<br>y al mejor precio.</p>
+        <div class="hero__scribble" aria-hidden="true">
+          <span>Más que un viaje,<br>nuevas historias</span>
+        </div>
+        <img class="hero__underline" src="./assets/handdrawn-arrow.svg" alt="" aria-hidden="true" width="137" height="48">
+
+        <section class="search-panel" aria-label="Búsqueda de vehículos">
+          <div class="search-panel__title"><img src="./assets/search-icon.png" alt="" width="39" height="39"><span>¿Donde quieres viajar?</span></div>
+          <div class="search-panel__fields">
+            <button class="search-field" type="button" data-overlay="location" aria-label="Ciudad de recogida: Medellín">
+              <span class="search-field__label">Ciudad de recogida</span>
+              <span class="search-field__value" id="location-value">Medellín</span>
+              <img class="search-field__icon search-field__icon--location" src="./assets/location-icon.png" alt="" width="36" height="36">
+              <img class="search-field__chevron" src="./assets/dropdown-chevron.svg" alt="" width="16" height="16">
+            </button>
+            <button class="search-field" type="button" data-overlay="calendar" aria-label="Fecha de inicio: 12 ago 2026">
+              <span class="search-field__label">Fecha de inicio</span>
+              <span class="search-field__value" id="start-value">12 ago 2026</span>
+              <img class="search-field__icon" src="./assets/calendar-icon.png" alt="" width="46" height="46">
+              <img class="search-field__chevron" src="./assets/dropdown-chevron.svg" alt="" width="16" height="16">
+            </button>
+            <button class="search-field" type="button" data-overlay="calendar" aria-label="Fecha de fin: 15 ago 2026">
+              <span class="search-field__label">Fecha de fin</span>
+              <span class="search-field__value" id="end-value">15 ago 2026</span>
+              <img class="search-field__icon" src="./assets/calendar-icon.png" alt="" width="46" height="46">
+              <img class="search-field__chevron" src="./assets/dropdown-chevron.svg" alt="" width="16" height="16">
+            </button>
+            <button class="search-panel__submit" type="button" data-pending="catalog"><img src="./assets/search-button-icon.png" alt="" width="41" height="41"><span>Buscar vehiculos</span></button>
+          </div>
+        </section>
+      </section>
+
+      <section class="benefits" aria-label="Beneficios">
+        <div class="benefit"><img src="./assets/protect.png" alt="" width="87" height="48"><span>Precios transparentes</span></div>
+        <div class="benefit"><img src="./assets/protect.png" alt="" width="88" height="48"><span>Proceso 100% en linea</span></div>
+        <div class="benefit"><img src="./assets/protect.png" alt="" width="87" height="48"><span>Vehiculos certificados</span></div>
+        <div class="benefit"><img src="./assets/protect.png" alt="" width="87" height="48"><span>Especialistas Certificados</span></div>
+      </section>
+    </main>
+    <div class="dialog-layer" id="dialog-layer" hidden></div>
+    <div class="visually-hidden" id="live-status" role="status" aria-live="polite"></div>
+  </body>
+</html>

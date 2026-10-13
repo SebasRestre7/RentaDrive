@@ -1,0 +1,1775 @@
+States: 64; measured rows: 197; failed: 0
+[
+  {
+    "name": "home",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-desktop-pixel-invariant",
+    "width": 1280,
+    "status": "passed"
+  },
+  {
+    "name": "home-intermediate-1000",
+    "width": 1000,
+    "status": "passed",
+    "rootScroll": 1000,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-wide-1920",
+    "width": 1920,
+    "status": "passed",
+    "rootScroll": 1920,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-login",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-location",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-calendar",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-register",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-promotions",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-help",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-recover",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-role",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-reset",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-login-error",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-recovery-error",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-reset-error",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-register-details",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-city-empty",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-city-filter-keyboard",
+    "width": 1280,
+    "status": "passed"
+  },
+  {
+    "name": "home-city-selected",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-calendar-next-month",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-calendar-error",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-register-error",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-results",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-sort",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-search",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-brand",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-favorites",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-detail",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-unavailable-favorite",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-unavailable-detail",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-empty",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-unauthorized",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-selection",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-review",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-confirmed",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-confirmed-qr",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-view-reservation",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-no-draft",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-long-profile",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-long-name",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-long-detail",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-long-profile-and-vehicle",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-fleet",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-fleet-state-form",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-maintenance-form",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-vehicle-form",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-vehicle-edit",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-rate-form",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-kilometre-rate",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-rate-published",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-rate-revision",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-policy-form",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-agreement-form",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-roles-audit",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-role-assignment",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-reports",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-lookup",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-reservation",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-delivery-form",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-reassign-form",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-extend-form",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-reassign-result",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-extend-result",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-evidence",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-license-error",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-acta-done",
+    "width": 1280,
+    "status": "passed",
+    "rootScroll": 1280,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "runtime-errors",
+    "width": 1280,
+    "errors": []
+  },
+  {
+    "name": "home",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-login",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-location",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-calendar",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-register",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-promotions",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-help",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-recover",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-role",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-reset",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-login-error",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-recovery-error",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-reset-error",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-register-details",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-city-empty",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-city-filter-keyboard",
+    "width": 768,
+    "status": "passed"
+  },
+  {
+    "name": "home-city-selected",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-calendar-next-month",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-calendar-error",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-register-error",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-results",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-sort",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-search",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-brand",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-favorites",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-detail",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-unavailable-favorite",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-unavailable-detail",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-empty",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-unauthorized",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-selection",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-review",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-confirmed",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-confirmed-qr",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-view-reservation",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-no-draft",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-long-profile",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-long-name",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-long-detail",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-long-profile-and-vehicle",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-fleet",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-fleet-state-form",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-maintenance-form",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-vehicle-form",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-vehicle-edit",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-rate-form",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-kilometre-rate",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-rate-published",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-rate-revision",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-policy-form",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-agreement-form",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-roles-audit",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-role-assignment",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-reports",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-lookup",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-reservation",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-delivery-form",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-reassign-form",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-extend-form",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-reassign-result",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-extend-result",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-evidence",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-license-error",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-acta-done",
+    "width": 768,
+    "status": "passed",
+    "rootScroll": 768,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "runtime-errors",
+    "width": 768,
+    "errors": []
+  },
+  {
+    "name": "home",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-login",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-login-shortheight",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-login-shortheight-submit-scrolled",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-location",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-calendar",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-register",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-promotions",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-help",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-recover",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-role",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-reset",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-login-error",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-recovery-error",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-reset-error",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-register-details",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-city-empty",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-city-filter-keyboard",
+    "width": 390,
+    "status": "passed"
+  },
+  {
+    "name": "home-city-selected",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-calendar-next-month",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-calendar-error",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-register-error",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-results",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-sort",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-search",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-brand",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-favorites",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-detail",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-unavailable-favorite",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-unavailable-detail",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-empty",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-unauthorized",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-selection",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-review",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-confirmed",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-confirmed-qr",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-view-reservation",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-no-draft",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "home-long-profile",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-long-name",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "catalog-long-detail",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "booking-long-profile-and-vehicle",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-fleet",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-fleet-state-form",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-maintenance-form",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-vehicle-form",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-vehicle-edit",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-rate-form",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-kilometre-rate",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-rate-published",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-rate-revision",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-policy-form",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-agreement-form",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-roles-audit",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-role-assignment",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "admin-reports",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-lookup",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-reservation",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-delivery-form",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-reassign-form",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-extend-form",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-reassign-result",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-extend-result",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-evidence",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-license-error",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "coordinator-acta-done",
+    "width": 390,
+    "status": "passed",
+    "rootScroll": 390,
+    "controls": 0,
+    "clips": 0,
+    "texts": 0
+  },
+  {
+    "name": "runtime-errors",
+    "width": 390,
+    "errors": []
+  }
+]
